@@ -1,0 +1,7 @@
+NumPy
+SciPy
+Pandas
+Matplotlib
+Seaborn 
+SymPy
+Statsmodels 
